@@ -1,1 +1,4 @@
-This is second file created for sri-pooja 
+This is second file created for sri-pooja
+i have observed that there is file in central repository which should
+be pulled, as i cannot commit the changes and push the changes to master.
+hence i have pulled the changes and merge it woth local repository
